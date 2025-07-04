@@ -5,7 +5,7 @@
 
 <h2 align="left">👋 About</h2>
 
-<p>Hello. I am a <strong>Freelancer</strong> and <strong>Remote Web Developer</strong> specializing in <strong>Bootstrap, JavaScript, WordPress, PHP, Python</strong>  and <strong>Linux</strong>.</p>
+<p>Hello. I am a <strong>Freelance Web Developer</strong> specializing in <strong>Bootstrap, JavaScript, WordPress, PHP, Python</strong>  and <strong>Linux</strong>.</p>
 
 <p><strong>Languages and Tools</strong></p>
 <p align="left" style="display:flex!important"> 
