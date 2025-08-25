@@ -53,6 +53,16 @@
 <h2 align="left">
 🌐 Latest Projects
 </h2>
-<p>Check out some of my current <a href="https://drive.google.com/drive/folders/1AX6LQP30FYs3OBLign_lKWqkoeBzCkZT?usp=drive_link"><strong>web projects</strong></a>.</p>
+<p>Check out some of my current <a href=<img width="72" height="72" alt="image" src="https://github.com/user-attachments/assets/712723ed-c51c-4517-a67b-a123da769d06" />
+https://drive.google.com/drive/folders/1AX6LQP30FYs3OBLign_lKWqkoeBzCkZT?usp=drive_link"><strong>web projects</strong></a>.</p>
 
 
+<h2 align="left">
+📌 Profiles
+</h2>
+<ul dir="auto">
+<li><a href="https://www.linkedin.com/in/holly-nicholson-559447107/">LinkedIn</a></li>
+<li><a href="https://www.behance.net/hollynicholson1">Behance</a></li>
+  
+</ul>
+</ul>
