@@ -49,12 +49,12 @@
 </p>
 
 
-
+<!--
 <h2 align="left">
 🌐 Latest Projects
 </h2>
 <p>Check out some of my current <a href="https://drive.google.com/drive/folders/1AX6LQP30FYs3OBLign_lKWqkoeBzCkZT?usp=drive_link" />
-<strong>web projects</strong></a>.</p>
+<strong>web projects</strong></a>.</p>-->
 
 
 <h2 align="left">
