@@ -6,7 +6,6 @@
 <h2 align="left">👋 About</h2>
 
 <p>Front-end developer specializing in modern UI development with a growing focus on full-stack applications.
-Currently learning full-stack development and getting more comfortable with the backend side of things.
 Always learning and always working on improving my skills 🚀
 <p><strong>Languages and Tools</strong></p>
 <p align="left" style="display:flex!important"> 
